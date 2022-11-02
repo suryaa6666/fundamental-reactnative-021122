@@ -1,3 +1,3 @@
-# Embedding Expression
+# Event
 
-Jsx are code that we have created before, such as and . Now how to embed expression (variable, function, etc) on it?
+Use component called TouchableHighlight or TouchableOpacity to play with React Native event.
