@@ -1,3 +1,4 @@
-# List of Map
+# List of FlatList
 
-We can make list in React Native of course with the help of array variable that embeded and looped on Jsx.
+Ofc there is nothing wrong with list above, but for performance reason, flatlist will be better because it only rendering something that displayed on screen.
+
