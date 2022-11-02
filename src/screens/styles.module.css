@@ -1,0 +1,27 @@
+.container {
+  margin: "100px";
+  background-color: black;
+}
+
+.textSaya {
+  color: "blue";
+  font-size: 20;
+  font-weight: "bold";
+}
+
+.textInput {
+  padding: 20 0;
+  margin: 10 0;
+  background-color: "grey";
+  color: "white";
+}
+
+.buttonKeren {
+  padding: 20;
+  border-radius: 50;
+  color: "white";
+  background-color: "black";
+  text-align: "center";
+  font-size: 30;
+  font-weight: "bold";
+}
