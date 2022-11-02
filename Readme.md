@@ -1,3 +1,3 @@
-# Event
+# Props
 
-Use component called TouchableHighlight or TouchableOpacity to play with React Native event.
+Props is such as parameter that can be passed from a Component (Parent) to other Component (Child)
