@@ -1,3 +1,2 @@
-# Props
-
-Props is such as parameter that can be passed from a Component (Parent) to other Component (Child)
+# State
+State are used for data that is going to change dynamically.
